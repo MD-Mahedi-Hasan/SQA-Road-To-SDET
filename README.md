@@ -1,5 +1,5 @@
 # Full-Stack-SQA-SDET
-# Project Name: dmoney-newman
+# Project Name: dmoney-newman-API Automation
 
 ## project summary 
 This project has Automate User API from Postman using Newman
