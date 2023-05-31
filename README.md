@@ -19,7 +19,8 @@ This project has automate User Transaction API from Postman Using Newman
 A report will be generate in your project source root
 
 ## Bug And Improvement Suggestion :
--Link
+-Link :
+https://docs.google.com/spreadsheets/d/11bY5lvVjyKXmP8HOIcqAqLfXeRBNuIpd/edit?usp=sharing&ouid=114849242015517133629&rtpof=true&sd=true
 
 ## Postman Document :
 -Link :
